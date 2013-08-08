@@ -19,7 +19,8 @@ How to run the exercises depending on platform / language:
 
 ### Node.js (Any language)
 
-Get [node.js and npm](http://nodejs.org) and do npm install on the root.
+Get [node.js and npm](http://nodejs.org) and do npm install on the root of the
+repo.
 
 ### Javascript on node.js
 
@@ -28,6 +29,12 @@ To run the exercises `cd 134/node` (or other folder) and then run it with:
     node 134 1 2
 
 ### Livescript on node.js
+
+Install livescript with npm.
+
+  npm install -g LiveScript
+
+(Remember to do an npm install on the root of the repo)
 
 Get into the folder of the exercise `cd 133/node-ls` for example.
 
