@@ -1,0 +1,22 @@
+{
+  "name": "daily-programming",
+  "version": "0.0.0",
+  "description": "Daily Programmer programs =========================",
+  "main": "index.js",
+  "dependencies": {
+    "prelude-ls": "~1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joakin/dailyprogrammer.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/joakin/dailyprogrammer/issues"
+  }
+}
